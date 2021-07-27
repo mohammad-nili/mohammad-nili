@@ -13,38 +13,92 @@
     
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/74482108/127066163-ce6995ab-3e19-464d-97c4-47169ba2e640.png" alt="materialize" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bower/bower-original.svg" alt="bower" width="25" height="25" />
+    <a href="https://www.php.net/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
+    </a>
+    <a href="https://laravel.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25" />
+    </a>
+    <a href="mysql.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+    </a>
+    <a href="https://www.r-project.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="25" height="25" />
+    </a>
+    <a href="https://materializecss.com/">
+        <img src="https://user-images.githubusercontent.com/74482108/127066163-ce6995ab-3e19-464d-97c4-47169ba2e640.png" alt="materialize" width="25"/>
+    </a>
+    <a href="https://getbootstrap.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+    </a>
+    <a href="https://www.w3schools.com/css/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+    </a>
+    <a href="https://www.javascript.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+    </a>
+    <a href="https://jquery.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="25" height="25" />
+    </a>
+    <a href="https://bower.io/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bower/bower-original.svg" alt="bower" width="25" height="25" />
+    </a>
+
 </p>
 
 <h2>:children_crossing: ToDO Learning :</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" />
-<img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="neo4j" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="cassandra" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse"  height="25" />
-<img src="https://sakurasky.com/images/blog/superset-logo-stacked-apache_thumb.png" alt="superset"  height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" height="25" />
-    
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-plain.svg" alt="phalcon" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="25" height="25" />
+    <a href="https://www.docker.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" />
+    </a>
+    <a href="https://hadoop.apache.org/">
+        <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop" height="25" />
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+    </a>
+    <a href="https://neo4j.com/">
+        <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="neo4j" width="25" height="25" />
+    </a>
+    <a href="https://www.elastic.co/">
+        <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch" width="25" height="25" />
+    </a>
+    <a href="https://cassandra.apache.org/">
+        <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="cassandra" height="25" />
+    </a>
+    <a href="https://spark.apache.org/">
+        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" height="25" />
+    </a>
+    <a href="https://kafka.apache.org/">
+        <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka" height="25" />
+    </a>
+    <a href="https://clickhouse.tech/">
+        <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse"  height="25" />
+    </a>
+    <a href="https://superset.apache.org/">
+        <img src="https://sakurasky.com/images/blog/superset-logo-stacked-apache_thumb.png" alt="superset"  height="25" />
+    </a>
+    <a href="https://redis.io/">
+        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" height="25" />
+    </a>
+    <a href="https://phalcon.io/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-plain.svg" alt="phalcon" width="25" height="25" />
+    </a>
+    <a href="https://ubuntu.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" height="25" />
+    </a>
+    <a href="https://www.tensorflow.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="25" height="25" />
+    </a>
+    <a href="https://pytorch.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" height="25" />
+    </a>
+    <a href="https://julialang.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="25" height="25" />
+    </a>
 </p>
  
 </p>
