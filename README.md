@@ -28,7 +28,7 @@
 
 <h2>:children_crossing: ToDO Learning :</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" />
 <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="neo4j" width="25" height="25" />
