@@ -1,5 +1,5 @@
 </div>
-<p>I am a Software Developer skilled in <strong>PHP, Laravel, Docker, python</strong> and R.<br/>
+<p>I am a Software Developer skilled in <strong>PHP, Laravel, python</strong> and R.<br/>
     Strongly interested in <strong>R, Julia, Linux and Phalcon </strong>.<br/>
         Master student in Artificial intelligence and robotic at University of Tehran<br/>
         With a bachelor degree focused on Software Engineering from Imam Khomeini International University. <br />
