@@ -43,7 +43,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-plain.svg" alt="phalcon" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="25" height="25" />
 </p>
  
