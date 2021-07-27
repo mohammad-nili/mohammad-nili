@@ -28,18 +28,21 @@
 
 <h2>:children_crossing: ToDO Learning :</h2>
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="neo4j" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="neo4j" width="25" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch" width="25" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="cassandra" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse"  height="25" />
 <img src="https://sakurasky.com/images/blog/superset-logo-stacked-apache_thumb.png" alt="superset"  height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="25" />
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" height="25" />
+    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-plain.svg" alt="phalcon" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="25" height="25" />
 </p>
  
