@@ -5,6 +5,12 @@
         With a bachelor degree focused on Software Engineering from Imam Khomeini International University. <br />
 </p>
 <p>
+ 
+![mohammad-nili's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-nili&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-nili&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+    
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
@@ -29,7 +35,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="cassandra" height="25" />
 <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse"  height="25" />
 <img src="https://sakurasky.com/images/blog/superset-logo-stacked-apache_thumb.png" alt="superset"  height="25" />
-    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-plain.svg" alt="phalcon" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" height="25" />
@@ -38,12 +43,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="25" height="25" />
 </p>
  
- 
-![mohammad-nili's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-nili&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-nili&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-    
 </p>
 <h4>  Feel free to contact me :)</h4>
 
