@@ -106,6 +106,7 @@
 
 <p>
     <a href="https://www.linkedin.com/in/mohammad-nili/"><img src="https://img.shields.io/badge/-@mohammad--nili-0077B5?labelColor=010101&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mohammad-nili/" alt="LinkedIn Badge"></a>
+<!--     <a href="https://www.hackerrank.com/mohammadnili"><img src="https://img.shields.io/badge/-@mohammad--nili-1BA94C?labelColor=010101&amp;logo=hackerrank&amp;link=https://www.hackerrank.com/mohammadnili" alt="hackerrank Badge"></a> -->
 <!--     <a href="https://stackoverflow.com/users/16633353/mohammad-nili?tab=profile"><img src="https://img.shields.io/badge/-@mohammad--nili-EF8236?labelColor=010101&amp;logo=stackoverflow&amp;link=https://stackoverflow.com/users/16633353/mohammad-nili?tab=profile" alt="stackexchange Badge"></a> -->
 <!--     <a href="https://www.datacamp.com/profile/nilimohammad"><img src="https://img.shields.io/badge/-@mohammad--nili-02EF61?labelColor=010101&amp;logo=datacamp&amp;link=https://www.datacamp.com/profile/nilimohammad" alt="datacamp Badge"></a> -->
 <!-- <a href="https://dribbble.com/mohammadnili"><img src="https://img.shields.io/badge/-@mohammad--nili-EA4C89?labelColor=010101&amp;logo=dribbble&amp;link=https://dribbble.com/mohammadnili" alt="dribbble Badge"></a> -->
