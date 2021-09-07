@@ -1,6 +1,6 @@
 </div>
 <p>I am a Software Developer skilled in <strong>PHP, Laravel, python</strong> and R.<br/>
-    Strongly interested in <strong>R, Julia, Linux and Phalcon </strong>.<br/>
+    Strongly interested in <strong>R, Linux and Phalcon </strong>.<br/>
         Master student in Artificial intelligence and robotic at University of Tehran<br/>
         With a bachelor degree focused on Software Engineering from Imam Khomeini International University. <br />
 </p>
@@ -96,9 +96,9 @@
     <a href="https://pytorch.org/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" height="25" />
     </a>
-    <a href="https://julialang.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="25" height="25" />
-    </a>
+<!--     <a href="https://julialang.org/"> -->
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="25" height="25" /> -->
+<!--     </a> -->
 </p>
  
 </p>
