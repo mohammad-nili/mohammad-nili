@@ -5,8 +5,6 @@
         With a bachelor degree focused on Software Engineering from Imam Khomeini International University. <br />
 </p>
 <p>
- 
-- [Mohammad-Hossein H.K.Nili :man_astronaut: :brain:](https://github.com/HediyeRaisy)
     
 ![mohammad-nili's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-nili&show_icons=true&theme=radical)
 
