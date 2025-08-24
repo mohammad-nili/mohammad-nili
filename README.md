@@ -13,12 +13,12 @@
     
 <h2>🚀 Some Tools I Use :</h2>
 <p align="left">
-    <a href="https://www.php.net/">
+<!--     <a href="https://www.php.net/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
     </a>
     <a href="https://laravel.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25" />
-    </a>
+    </a> -->
     <a href="mysql.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
     </a>
@@ -76,7 +76,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka" height="25" />
     </a>
     <a href="https://clickhouse.tech/">
-        <img src="[https://cdn.worldvectorlogo.com/logos/clickhouse.svg](https://cdnlogo.com/logos/c/57/clickhouse.svg)" alt="clickhouse"  height="25" />
+        <img src="https://cdnlogo.com/logos/c/57/clickhouse.svg" alt="clickhouse"  height="25" />
     </a>
     <a href="https://superset.apache.org/">
         <img src="https://superset.apache.org/img/superset-logo-horiz-apache.svg" alt="superset"  height="25" />
